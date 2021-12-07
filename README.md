@@ -20,12 +20,19 @@ DNS Server – Domain Name System (or “Server”)
  URI – Uniform Resource Identifier (or URL)
 
 The OSI (7-Layer Model)
+
 7. Application 
+
 6. Presentation
+
 5. Session
+
 4. Transport
+
 3.Network
+
 2.Datalink
+
 1.Physical
 
 ### Introduction to IP Addresses & Binary Math
@@ -51,4 +58,3 @@ Creation of Subnets
 Configuration of routing tables and network gateways
 WE have complete control over the VPC
 
-7.10
